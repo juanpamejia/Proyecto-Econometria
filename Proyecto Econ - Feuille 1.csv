@@ -1,0 +1,13 @@
+fecha,producto,ciudad,precio,cierre,16Abr
+13/04/2020,cebolla,bogota,1.075,0,0
+13/04/2020,tomate,bogota,1.847,0,0
+16/04/2020,cebolla,bogota,925,0,1
+16/04/2020,tomate,bogota,1.597,0,1
+13/04/2020,cebolla,medellin,1.250,0,0
+13/04/2020,tomate,medellin,1.225,0,0
+16/04/2020,cebolla,medellin,1.331,1,1
+16/04/2020,tomate,medellin,1.050,1,1
+13/04/2020,cebolla,manizales,1.275,0,0
+13/04/2020,tomate,manizales,1.739,0,0
+16/04/2020,cebolla,manizales,1.200,0,1
+16/04/2020,tomate,manizales,1.364,0,1
